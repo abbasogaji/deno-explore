@@ -1,3 +1,3 @@
-## Exploring Deno Standard Library
+# Exploring Deno Standard Library
 
 1. DateTime : datetime.ts
